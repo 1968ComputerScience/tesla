@@ -1,4 +1,4 @@
-# tesla
+# tesla 007 Lightshow files and setup instructions
 Format a USB with ExFAT
 
 Create a folder called "LightShow"
@@ -14,4 +14,4 @@ Insert this USB in Tesla Model Y/3/S/X
 Goto Tesla “toybox, tap Light Show"
 
 Come out of Tesla, close door...then the show begins
-# tesla
+
