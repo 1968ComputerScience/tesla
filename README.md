@@ -1,4 +1,4 @@
-# tesla
+# tesla "Don" movie song Lightshow files and setup instructions
 Format a USB with ExFAT
 
 Create a folder called "LightShow"
