@@ -1,4 +1,4 @@
-# tesla
+# tesla Don Lightshow files and setup
 Format a USB with ExFAT
 
 Create a folder called "LightShow"
